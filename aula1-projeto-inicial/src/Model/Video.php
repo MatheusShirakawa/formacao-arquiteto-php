@@ -2,7 +2,9 @@
 
 namespace Alura\Solid\Model;
 
-class Video
+use Alura\Solid\Model\Assistivel;
+
+class Video implements Assistivel
 {
     /** @var bool */
     protected $assistido = false;
