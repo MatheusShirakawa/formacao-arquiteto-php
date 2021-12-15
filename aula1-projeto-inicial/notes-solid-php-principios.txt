@@ -26,7 +26,6 @@ Single Responsability principle
 
 	- just because you can, doesnt mean you should
 
-
 	Uma classe só deveria ter um unico motivo para mudar
 
 
@@ -37,7 +36,6 @@ Single Responsability principle
 	Como realizar uma refatoração no nosso sistema
 
 	Como extrair uma classe
-
 
 
 Open Closed Principle 
@@ -77,24 +75,12 @@ Dependency Inversion Principle
 		Robert C Martin
 
 
-
 	ISP (Interface Segregation Principle)
 
 		uma classe nao pode ser forçada a depender de metodos que nao utilizará
 
 
-SOLID
-
-
-S	Single responsability principle
-
-O	Open / Closed Principle
-
-L	Liskov Substitution Principle
-
-I	Interface Segregation Principle
-
-D   Dependency Inversion Principle	
+Dependency Inversion Principle	
 
 	Nesta aula, aprendemos:
 
@@ -118,3 +104,17 @@ D   Dependency Inversion Principle
 		Liskov Substituition Principle
 		Interface Segregation Principle
 		Dependency Inversion Principle
+
+
+SOLID
+
+
+S	Single responsability principle
+
+O	Open / Closed Principle
+
+L	Liskov Substitution Principle
+
+I	Interface Segregation Principle
+
+D   Dependency Inversion Principle	
